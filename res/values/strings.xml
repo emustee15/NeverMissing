@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Never Missing</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="waitForLocation">Waiting For Location…</string>
+    <string name="locationDisabledError">Please enable GPS to continue. Press \"Okay\" to go to the location settings.</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="locationDisabledErrorTitle">GPS Is Disabled</string>
+    <string name="Add">Add Object</string>
+    <string name="title_activity_create_small_object">Add A Small Object</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="smallNameTextViewHint">e.g. Car Keys</string>
+    <string name="smallDescriptionTextViewHint">e.g. Coffee Table</string>
+    <string name="textViewName">Name: </string>
+    <string name="textViewDescription">Location: </string>
+    <string name="CreateDialogTitle">Large Or Small?</string>
+    <string name="LargeButton">Large</string>
+    <string name="SmallButton">Small</string>
+    <string name="CreateObjectDialogText">Use \"Small\" if you want to remember where you put your car keys. Use \"Large\" for remember where you parked.</string>
+    <string name="photoButton">Take Photo</string>
+    <string name="fileCreateError">Error Create File</string>
+    <string name="EmptyFieldTitle">Error</string>
+    <string name="EmptyFieldDialogText">A field has been left blank. Please fill out the name field.</string>
+    <string name="blankDescription">No Description Given.</string>
+    <string name="title_activity_create_large_object">Add A Large Object</string>
+    <string name="nameHintLargeTextView">e.g. Car</string>
+    <string name="feet"> feet</string>
+    <string name="accuaracy">GPS Accuarcy: </string>
+    <string name="noLocationError">The location has not yet been determined. Please wait for a location.</string>
+    <string name="title_activity_large_image_viewer">Viewing Image</string>
+    <string name="title_activity_view_small_object">Viewing Object</string>
+    <string name="addSubItem">Add Another Location</string>
+    <string name="viewImageBigObject">View Image</string>
+    <string name="title_activity_view_large_image">Viewing Image</string>
+    <string name="Delete">Delete</string>
+    <string name="DeleteText">Are you sure you want to remove this entry?</string>
+    <string name="masterHint">It look\'s like you have no locations saved! Press \"Add Object\" to remember where you placed something!</string>
+
+</resources>
